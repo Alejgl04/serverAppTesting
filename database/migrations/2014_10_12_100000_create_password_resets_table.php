@@ -11,6 +11,7 @@ return new class extends Migration
      *
      * @return void
      */
+    /*asdasd/*/
     public function up()
     {
         Schema::create('password_resets', function (Blueprint $table) {
